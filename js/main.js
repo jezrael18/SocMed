@@ -76,7 +76,7 @@ var login=()=>
             else if(result == 1)
             {
                 alert("Login Successfully!");
-                location.replace("newsfeed.html");
+                location.replace("adminnewsfeed.html");
             }
             else if(result == 2)
             {
