@@ -38,8 +38,10 @@ nav{
     border-radius: 50%;
     cursor: pointer;
 }
+
+
 .nav-user-icon{
-    margin: 30px;
+    margin: 8px;
 }
 .search-box{
     background: #efefef;
