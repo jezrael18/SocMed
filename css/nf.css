@@ -11,15 +11,15 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #1875f2;
+    background: #373838;
     padding: 5px 5%;
     position: sticky;
     top: 0;
     z-index: 100;
 }
 .logo{
-    width: 160px;
-    margin-right: 45px;
+    width: 45px;
+    margin-right: 50px;
 }
 .nav-left, .nav-right{
     display: flex;

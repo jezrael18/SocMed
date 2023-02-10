@@ -45,7 +45,7 @@ var register=()=>
             if(result == 200)
             {
                 alert("Account has been Created!");
-                location.replace("index.html");
+                location.replace("login.html");
             }
             else
             {
@@ -76,7 +76,7 @@ var login=()=>
             else if(result == 1)
             {
                 alert("Login Successfully!");
-                location.replace("adminnewsfeed.html");
+                location.replace("newsfeed.html");
             }
             else if(result == 2)
             {
